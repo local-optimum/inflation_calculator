@@ -21,7 +21,4 @@ apps:
   inflation-calculator:
     command: inflation_calculator
     extensions: [flutter-master]
-    dbus-inflation-calculator: # adjust accordingly to your app name
-      interface: dbus
-      bus: session
-      name: dev.site.super_cool_app 
+
