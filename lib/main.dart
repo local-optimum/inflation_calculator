@@ -9,7 +9,6 @@ import 'package:url_launcher/url_launcher.dart';
 //IMPORT API SHEET
 import 'inflation_data.dart';
 
-
 void main() {
   runApp(MyApp());
 }
@@ -419,7 +418,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 TextButton(
                   onPressed: () {
                     launch(
-                        'https://github.com/local-optimum/flutter-inflation-app');
+                        'https://github.com/local-optimum/inflation_calculator');
                   },
                   child: Text(
                     'Github',
