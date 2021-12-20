@@ -1,5 +1,5 @@
-name: flutter_inflation_app
-description: A new Flutter project.
+name: inflation_calculator
+description: A simple inflation calculator app written in Flutter.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
