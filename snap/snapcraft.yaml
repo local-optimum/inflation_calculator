@@ -11,7 +11,7 @@ confinement: strict # use 'strict' once you have the right plugs and slots
 parts:
   inflation-calculator:
     plugin: flutter
-    source: 
+    source: https://github.com/local-optimum/inflation_calculator.git
     flutter-target: lib/main.dart
 
 apps:
