@@ -1,16 +1,22 @@
-# inflation_calculator
+# Simple Inflation Calculator
 
-A new Flutter project.
+__"Inflation is taxation without legislation"__ - Miltion Friedman
 
-## Getting Started
+**Cash is not a store of value.**
+* The money supply is increasing at a historic rate.
+* We are all becoming poorer as a result.
+* Use this tool to visualise the impact of inflation on your purchasing power
 
-This project is a starting point for a Flutter application.
+------------
 
-A few resources to get you started if this is your first Flutter project:
+This is my first original Flutter app.
+Made for Linux Desktop using the Ubuntu Yaru theme.
+Available as a Snap.
+Data from statbureau.org
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+------------
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Currently it only supports USD, but later iterations will hope to add a country selector as well as flutter_charts visualisations
+
+
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/inflation-calculator)
