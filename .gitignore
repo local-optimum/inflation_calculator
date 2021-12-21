@@ -45,3 +45,4 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 inflation-calculator_0.3_amd64.snap
+inflation-calculator_0.2_amd64.snap
