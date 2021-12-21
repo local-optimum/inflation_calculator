@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Inflation Calculator
 Comment=A simple way to view the impact of inflation. Built in Flutter.
-Exec=inflation-Calculator %U 
+Exec=inflation-calculator
 Icon=${SNAP}/meta/gui/friedman-icon.png
 Terminal=false
 Type=Application
