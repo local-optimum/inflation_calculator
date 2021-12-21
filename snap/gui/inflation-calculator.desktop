@@ -2,7 +2,7 @@
 Name=Inflation Calculator
 Comment=A simple way to view the impact of inflation. Built in Flutter.
 Exec=inflation-Calculator %U 
-Icon=${SNAP}/meta/gui/friedman.png # replace name to your app name
+Icon=${SNAP}/meta/gui/friedman-icon.png # replace name to your app name
 Terminal=false
 Type=Application
 Categories=Finance; #adjust accordingly your snap category
