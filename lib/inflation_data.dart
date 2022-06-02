@@ -17,6 +17,7 @@ class InflationData {
       var decodedData = jsonDecode(response.body);
       return decodedData;
     } else {
+      
       print(response.statusCode);
       throw 'Problem with the get request';
     }
